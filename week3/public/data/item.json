@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "judul": "Panel Surya Atap Kampus",
+    "kategori": "energi",
+    "deskripsi": "Instalasi panel surya di atap gedung utama untuk menyuplai 30% kebutuhan listrik kampus secara mandiri.",
+    "tersedia": true
+  },
+  {
+    "id": 2,
+    "judul": "Turbin Angin Mini",
+    "kategori": "energi",
+    "deskripsi": "Pemasangan turbin angin berukuran kecil di area terbuka kampus sebagai sumber energi tambahan.",
+    "tersedia": true
+  },
+  {
+    "id": 3,
+    "judul": "Stasiun Pengisian Kendaraan Listrik",
+    "kategori": "energi",
+    "deskripsi": "Fasilitas pengisian daya untuk kendaraan listrik mahasiswa dan staf yang tersebar di area parkir.",
+    "tersedia": false
+  },
+  {
+    "id": 4,
+    "judul": "Bank Sampah Digital",
+    "kategori": "lingkungan",
+    "deskripsi": "Sistem pengelolaan sampah berbasis aplikasi yang memungkinkan warga kampus memilah dan menukar sampah daur ulang dengan poin.",
+    "tersedia": true
+  },
+  {
+    "id": 5,
+    "judul": "Taman Vertikal Gedung C",
+    "kategori": "lingkungan",
+    "deskripsi": "Penanaman tanaman hijau pada dinding luar Gedung C untuk mengurangi suhu ruangan dan menyerap polutan udara.",
+    "tersedia": true
+  },
+  {
+    "id": 6,
+    "judul": "Sistem Daur Ulang Air Hujan",
+    "kategori": "lingkungan",
+    "deskripsi": "Pengumpulan dan pengolahan air hujan untuk kebutuhan penyiraman taman dan toilet umum di seluruh kampus.",
+    "tersedia": true
+  },
+  {
+    "id": 7,
+    "judul": "Kompos Sisa Kantin",
+    "kategori": "lingkungan",
+    "deskripsi": "Program pengolahan sisa makanan dari kantin menjadi kompos yang digunakan untuk pupuk tanaman kampus.",
+    "tersedia": false
+  },
+  {
+    "id": 8,
+    "judul": "Shuttle Bus Listrik Kampus",
+    "kategori": "kampus",
+    "deskripsi": "Layanan transportasi bus listrik yang menghubungkan antar gedung kampus secara gratis bagi mahasiswa dan staf.",
+    "tersedia": true
+  },
+  {
+    "id": 9,
+    "judul": "Ruang Belajar Terbuka 24 Jam",
+    "kategori": "kampus",
+    "deskripsi": "Penyediaan ruang belajar kolaboratif yang dapat diakses selama 24 jam dilengkapi dengan Wi-Fi berkecepatan tinggi.",
+    "tersedia": true
+  },
+  {
+    "id": 10,
+    "judul": "Perpustakaan Digital Terintegrasi",
+    "kategori": "kampus",
+    "deskripsi": "Platform perpustakaan online yang mengintegrasikan koleksi buku fisik dan digital, dapat diakses dari seluruh perangkat.",
+    "tersedia": true
+  },
+  {
+    "id": 11,
+    "judul": "Klinik Kesehatan Mahasiswa",
+    "kategori": "kampus",
+    "deskripsi": "Layanan kesehatan gratis bagi mahasiswa aktif mencakup konsultasi umum, psikologi, dan gizi.",
+    "tersedia": false
+  },
+  {
+    "id": 12,
+    "judul": "Lampu Jalan Tenaga Surya",
+    "kategori": "energi",
+    "deskripsi": "Penggantian lampu jalan konvensional dengan lampu bertenaga surya di seluruh jalur pedestrian kampus.",
+    "tersedia": true
+  }
+]
+
